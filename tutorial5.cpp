@@ -4,9 +4,9 @@ bool fnprime (int N,int E)
 {
     if (N%E == 0)
     {
-        return true;
+        return false;
     }
-    return false;
+    return true;
 }
 int main() {
 bool x = fnprime (3,2);
