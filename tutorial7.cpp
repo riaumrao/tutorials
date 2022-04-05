@@ -17,7 +17,7 @@ void fn2 ( )
 
 int main()  
 {
-std::cout << "ste of words!" <<std::endl;
+std::cout << "set of words!" <<std::endl;
     fn2 ( );
    //write c++code here
     return 0;
