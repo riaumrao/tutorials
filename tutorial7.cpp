@@ -7,7 +7,7 @@ void fn2 ( )
     F["a"]="apple";
     F["b"]="badminton";
     F["c"]="chocolate";
-    F["d"]="donke";
+    F["d"]="donkey";
     F["e"]="elephant";
     for (auto E : F)
     {
